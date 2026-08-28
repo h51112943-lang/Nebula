@@ -7,3 +7,4 @@ kurigram
 tgcrypto
 py-tgcalls
 yt-dlp
+google-genai
